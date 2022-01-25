@@ -1,7 +1,7 @@
 # Boston-Bus-Route
-An animated map of buses between MIT and Harvard. The two campuses are marked by pins, and the animation begins when the user clicks a button. 
+An animated map of buses between MIT and Harvard. 
 ## Description
-This program displays an interactive map with locations for bus stops between MIT and Harvard in Boston, Massachusetts. 
+This program displays an interactive map with locations for bus stops between MIT and Harvard in Boston, Massachusetts. The two campuses are marked by pins, and the animation begins when the user clicks a button. 
 ## How to Run 
 Download index.html, body.css, and mapanimation.js to the same directory on your computer. Drag index.html into your preferred browser.
 ## Built With
